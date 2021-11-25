@@ -1,4 +1,4 @@
-# Toy Porject by myself
+# Toy Project by myself
 From first project to fourth are carried out alone during AI BootCamp(2021.07~2022.01).
 </br>
 </br>
